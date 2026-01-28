@@ -133,3 +133,8 @@ A collection of small Python programs to practice basic Python concepts like loo
 3. Program clears the screen and updates all timers every second
 4. When a timer reaches zero, it shows a Time’s up message
 5. Program ends when all timers finish, or user chooses to exit
+
+Clone the repository using the command:
+   ```bash
+   git clone https://github.com/Sabirhusseinbalal/python-basics-mini-projects.git
+   ```
