@@ -141,7 +141,7 @@ A collection of small Python programs to practice basic Python concepts like loo
 
 
 ## 🐍 Python Project Roadmap
-1. 👉 [Python Basics – Mini Projects](https://github.com/sabirhusseinbalal/python-basics-mini-projects)
+1. 👉 **Python Basics – Mini Projects**
 2. [File Handling & OS Automation](https://github.com/sabirhusseinbalal/python-file-system-automation)
 3. [Web, Network & API Automation](https://github.com/sabirhusseinbalal/python-web-network-projects)
 4. [Image, Video & Media Processing](https://github.com/sabirhusseinbalal/python-media-processing)
