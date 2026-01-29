@@ -149,4 +149,3 @@ A collection of small Python programs to practice basic Python concepts like loo
 6. 👉 [CLI, GUI & Small Apps]([https://github.com/...](https://github.com/sabirhusseinbalal/python-cli-gui-apps)
 7. 👉 [Bots & Automation]([https://github.com/...](https://github.com/sabirhusseinbalal/python-bots-automation)
 8. 👉 [Advanced Python Projects]([https://github.com/...](https://github.com/sabirhusseinbalal/python-bots-automation)
-
