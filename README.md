@@ -148,4 +148,4 @@ A collection of small Python programs to practice basic Python concepts like loo
 5. [Security, Encryption & Utilities](https://github.com/sabirhusseinbalal/python-security-utilities)
 6. [CLI, GUI & Small Apps](https://github.com/sabirhusseinbalal/python-cli-gui-apps)
 7. [Bots & Automation](https://github.com/sabirhusseinbalal/python-bots-automation)
-8. [Advanced Python Projects](https://github.com/sabirhusseinbalal/python-bots-automation)
+8. [Advanced Python Projects](https://github.com/sabirhusseinbalal/python-advanced-projects)
