@@ -96,4 +96,5 @@ def start():
                 print("Invalid input!")
 
 print("Welcome...\nThis program supports positive numbers only.")
+
 start()
