@@ -19,11 +19,11 @@ def countdown(labels, times):
                 all_done = False
             else:
                 if not finished[i]:
-                    print(f"⏰ {labels[i]} Time's up!")
+                    print(f"{labels[i]} Time's up!")
                     finished[i] = True
 
         if all_done:
-            print("\n✅ All timers finished!")
+            print("\nAll timers finished!")
             break
 
         time.sleep(1)
@@ -71,7 +71,7 @@ def main():
                         break
 
                     except ValueError as e:
-                        print(f"❌ {e}")
+                        print(f"{e}")
 
             print("\nStarting countdown...\n")
             countdown(labels, times)
@@ -82,6 +82,7 @@ def main():
                 break
 
         except ValueError as e:
-            print(f"❌ {e}")
+            print(f"{e}")
            
 main()
+
