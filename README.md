@@ -3,7 +3,7 @@
 A collection of small Python programs to practice basic Python concepts like loops, conditions, functions, and user input.
 
 **Watch Full YouTube Playlist:**
-[https://youtube.com/playlist?list=PLBslpEV463Bf8Keopig4650VovFgGPj2C&si=_JCMHs-Y9oD82qSD]
+[[Python Basics – 7 Mini Projects (Group 1)](https://youtube.com/playlist?list=PLBslpEV463Bf8Keopig4650VovFgGPj2C&si=EzjqW1jOUdE2LskK/)]
 
 ---
 
@@ -152,6 +152,7 @@ A collection of small Python programs to practice basic Python concepts like loo
 6. [CLI, GUI & Small Apps](https://github.com/sabirhusseinbalal/python-cli-gui-apps)
 7. [Automation Systems & Bots](https://github.com/sabirhusseinbalal/python-automation-systems)
 8. [Advanced Python Projects](https://github.com/sabirhusseinbalal/python-advanced-projects)
+
 
 
 
