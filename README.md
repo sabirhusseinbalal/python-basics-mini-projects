@@ -3,7 +3,7 @@
 A collection of small Python programs to practice basic Python concepts like loops, conditions, functions, and user input.
 
 **Watch Full YouTube Playlist:**
-[[Python Basics – 7 Mini Projects (Group-1)](https://www.youtube.com/playlist?list=PLBslpEV463Bf8Keopig4650VovFgGPj2C/)]
+[[Python Basics – 7 Mini Projects (Group-1)](https://youtube.com/playlist?list=PLBslpEV463BeVHm1iQbBjalf8fr4tjpxN&si=4dXr_61eDIfBUkjx/)]
 
 ---
 
